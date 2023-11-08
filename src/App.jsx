@@ -53,6 +53,9 @@ function App() {
             </div>
           </div>
         </div>
+        <div style={{position:'fixed', color:"white", bottom:10, width:100+"VH"}}>
+          <a href="https://calendariomed.netlify.app/">https://calendariomed.netlify.app/</a>
+        </div>
       </div>
     </>
   )
